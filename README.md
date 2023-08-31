@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/200w.webp?cid=ecf05e478o665rvqyo80d0078d5t60c3480d8n5qvmcs5vpr&ep=v1_gifs_search&rid=200w.webp&ct=g"  />
+<img align="right" height="150" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif"  />
 
 ###
 
@@ -19,9 +19,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="30" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
 </div>
 
 ###
